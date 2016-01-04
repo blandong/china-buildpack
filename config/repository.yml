@@ -15,4 +15,4 @@
 
 # Repository configuration
 ---
-default_repository_root: https://s3.amazonaws.com/covisintrnd.com-software
+default_repository_root: https://s3.cn-north-1.amazonaws.com.cn/covisintrnd.com-software
