@@ -29,14 +29,14 @@ memory_calculator:
   repository_root: ! '{default.repository.root}/memory-calculator/{platform}/{architecture}'
   version: 1.+
 oraclejdk8: 
-  repository_root: "https://s3.amazonaws.com/covisintrnd.com-software"
+  repository_root: "https://s3.cn-north-1.amazonaws.com.cn/covisintrnd.com-software"
   version: 1.8.0_+
 openjdk7:
   repository_root: ! '{default.repository.root}/openjdk/{platform}/{architecture}'
   version: 1.7.0_+
 openjdk8:   
-  repository_root: "https://s3.amazonaws.com/covisintrnd.com-software"
+  repository_root: "https://s3.cn-north-1.amazonaws.com.cn/covisintrnd.com-software"
   version: 1.8.1
 oraclejdk7:
-  repository_root: "https://s3.amazonaws.com/covisintrnd.com-software"
+  repository_root: "https://s3.cn-north-1.amazonaws.com.cn/covisintrnd.com-software"
   version: 1.7.0_+
