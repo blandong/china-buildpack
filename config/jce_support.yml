@@ -16,12 +16,12 @@
 # Configuration for the New Relic framework
 --- 
 oraclejdk7: 
-  repository_root: "https://s3.amazonaws.com/covisintrnd.com-software"
+  repository_root: "https://s3.cn-north-1.amazonaws.com.cn/covisintrnd.com-software"
   version: "3.2.0"
 oraclejdk8: 
-  repository_root: "https://s3.amazonaws.com/covisintrnd.com-software"
+  repository_root: "https://s3.cn-north-1.amazonaws.com.cn/covisintrnd.com-software"
   version: "3.1.0"
 openjdk8: 
-  repository_root: "https://s3.amazonaws.com/covisintrnd.com-software"
+  repository_root: "https://s3.cn-north-1.amazonaws.com.cn/covisintrnd.com-software"
   version: "3.1.0"  
   
